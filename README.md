@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About:
 HU Digital bietet Kunden weltweit digitale Dienstleistungen und blickt auf vier Jahre erfolgreiche Branchenerfahrung zurück. Unser Team bietet Webentwicklung, Webdesign, SEO, digitales Marketing und Anzeigenmanagement mit klarem Fokus auf Performance. Wir haben bereits über 400 internationale Kunden betreut, die durch unsere Dienstleistungen messbares Wachstum erzielt haben. Sie erhalten eine Website, die Ihre Geschäftsziele optimal unterstützt, eine stärkere Sichtbarkeit in Suchmaschinen und Werbekampagnen, die Ihren Umsatz steigern. Unser Team arbeitet präzise und stellt sicher, dass jedes Projekt auf konkrete Geschäftsergebnisse ausgerichtet ist.
 <br><br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-28a745?logo=google-chrome&logoColor=white&style=for-the-badge)]([https://](https://hu-digital.github.io/Portfolio/))
@@ -34,9 +34,9 @@ HU Digital bietet Kunden weltweit digitale Dienstleistungen und blickt auf vier 
 ![Figma](https://img.shields.io/badge/figma-%2300C2FF.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UmairAslam-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=UmairAslam-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UmairAslam-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=HU-Digital&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=HU-Digital&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HU-Digital&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
