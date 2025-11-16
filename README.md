@@ -1,7 +1,7 @@
 # 💫 About Me:
-My name is Umair Aslam, and I provide complete digital services worldwide. I have successfully delivered many projects through Fiverr, LinkedIn, and Upwork with 100% client satisfaction. My team and I specialize in web development, web design, SEO, digital marketing, and ads management. I help businesses grow online and increase their sales by creating professional websites, improving their visibility on Google and other search engines through SEO, and running effective Meta and Google Ads campaigns to achieve measurable results.
+HU Digital bietet Kunden weltweit digitale Dienstleistungen und blickt auf vier Jahre erfolgreiche Branchenerfahrung zurück. Unser Team bietet Webentwicklung, Webdesign, SEO, digitales Marketing und Anzeigenmanagement mit klarem Fokus auf Performance. Wir haben bereits über 400 internationale Kunden betreut, die durch unsere Dienstleistungen messbares Wachstum erzielt haben. Sie erhalten eine Website, die Ihre Geschäftsziele optimal unterstützt, eine stärkere Sichtbarkeit in Suchmaschinen und Werbekampagnen, die Ihren Umsatz steigern. Unser Team arbeitet präzise und stellt sicher, dass jedes Projekt auf konkrete Geschäftsergebnisse ausgerichtet ist.
 <br><br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-28a745?logo=google-chrome&logoColor=white&style=for-the-badge)](https://)
+[![Portfolio](https://img.shields.io/badge/Portfolio-28a745?logo=google-chrome&logoColor=white&style=for-the-badge)]([https://](https://hu-digital.github.io/Portfolio/))
 [![CV](https://img.shields.io/badge/CV-0976b4?logo=adobe-acrobat-reader&logoColor=white&style=for-the-badge)](https://drive.google.com)
 
 
@@ -12,7 +12,7 @@ My name is Umair Aslam, and I provide complete digital services worldwide. I hav
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Areskils146@gmail.com) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/sohaib.younas.3705](https://www.facebook.com/profile.php?id=100069192641926)) 
+[![FacebookPage](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/](https://www.facebook.com/profile.php?id=100069192641926)) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/923180783815)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
